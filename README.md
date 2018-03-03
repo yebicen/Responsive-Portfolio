@@ -1,2 +1,2 @@
-# Responsive-Portfolio
-Week 2 Homework
+# Basic-Portfolio
+Bicen Ye Week 1 Homework
