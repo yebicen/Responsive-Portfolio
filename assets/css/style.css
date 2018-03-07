@@ -85,7 +85,6 @@
         left:200px;
         right:100px;
         bottom:200px;
-         background-color: #ffffff;
          /* required width */
          width:600px;
          padding:25px;
@@ -253,8 +252,7 @@ textarea {
  
  
  @media screen and (min-width: 640px) and (max-width: 758px) {
-     
-           
+      
 
     #Yourname{
       position:absolute;
@@ -274,7 +272,6 @@ textarea {
           position:absolute;
           top:120px;
           left:0;
-          right:100px;
            background-color: #ffffff;
            width:100%;
            padding:25px;
@@ -286,11 +283,13 @@ textarea {
 
 
   .sidebar{
-      float: left;
-       background-color:white;
-       width:100%;
-       height:150px;
-       padding:30px;
+    position:absolute;
+    top:1000px;
+    left:0;
+    background-color:white;
+    width:100%;
+    height:150px;
+    padding:30px;
    }
  
 }
@@ -332,7 +331,9 @@ textarea {
 
 
   .sidebar{
-     float: left;
+    position:absolute;
+    top:1800px;
+    left:0;
       background-color:white;
       width:100%;
       min-height:150px;
