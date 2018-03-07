@@ -84,6 +84,7 @@
         left:200px;
         right:100px;
         bottom:200px;
+        background-color: #ffffff;
          /* required width */
          width:600px;
          padding:25px;
@@ -287,6 +288,13 @@ textarea {
     height:150px;
     padding:30px;
    }
+
+   .presentation {
+    float: left;
+    width:40%;
+    margin:25px;
+  }
+ 
  
 }
 
