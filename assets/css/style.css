@@ -31,7 +31,7 @@
          line-height: 200%;
      }
 
-    /* What is this function */
+
 
     .Header{
         position:absolute;
@@ -60,7 +60,6 @@
      left:900px;
      top:20px;
      width:260px;
-     /* border: 3px solid red; */
      }
 
      .tab{
@@ -179,7 +178,6 @@ textarea {
 }
 
 .presentation {
-  border:1px solid silver;
   float: left;
   width:40%;
   /* height:200px; */
@@ -197,7 +195,7 @@ textarea {
 }
 
 
-@media screen and (min-width: 758px) and (max-width: 960px) {
+@media screen and (min-width: 768px) and (max-width: 960px) {
     
    
     #Yourname{
@@ -240,10 +238,8 @@ textarea {
   }
   
   .presentation {
-    border:1px solid silver;
     float: left;
     width:40%;
-    /* height:200px; */
     margin:25px;
   }
  
@@ -251,7 +247,7 @@ textarea {
  
  
  
- @media screen and (min-width: 640px) and (max-width: 758px) {
+ @media screen and (min-width: 640px) and (max-width: 768px) {
       
 
     #Yourname{
@@ -332,7 +328,7 @@ textarea {
 
   .sidebar{
     position:absolute;
-    top:1800px;
+    top:3000px;
     left:0;
       background-color:white;
       width:100%;
@@ -344,7 +340,6 @@ textarea {
 
 
 .presentation {
-border:1px solid silver;
 float: left;
 width:100%;
 margin-bottom:100px;
